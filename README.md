@@ -10,6 +10,10 @@ Hello! I am Brejax, a hobby developer and passionate gamer. Here are some insigh
 - PHP: Still learning, but I already have a bit of experience with PHP!.
 - Java: Currently learning and finding it quite comfortable.
 
+## 🚀 Projects on Github
+
+I create small projects on GitHub and share them with everyone, allowing other GitHub users to continue developing them.
+
 ## 🌐 Contact
 
 If youre interested in collaboration or just want to exchange thoughts, I welcome every message. You can reach me on Discord.
