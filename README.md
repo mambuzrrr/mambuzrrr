@@ -8,7 +8,7 @@ Hello! I am Brejax, a hobby developer and passionate gamer. Here are some insigh
 - Python: My second favorite, used for desktop development & Linux Systems.
 - HTML, CSS: For my websites and other projects like web development.
 - PHP: Still learning, but I already have a bit of experience with PHP!.
-- Java: Currently learning and finding it quite comfortable.
+- Golang: Currently learning and finding it quite comfortable.
 
 ## 🚀 Projects on Github
 
